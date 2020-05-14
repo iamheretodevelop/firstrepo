@@ -4,14 +4,17 @@ h1 {
 
 }
 
-p {
-  color:red
 
-}
 
 div{
   color: maroon;
-  text-align: centre;
+  text-align: center;
   font-style:oblique;
+  background-color: teal;
+  width: 10px;
+  height: 10px;
+  margin-left: 500px;
+  padding: 100px;
+
 
 }
